@@ -1,8 +1,13 @@
 public class Main {
     public static void main(String[] args) {
 
-        char myChar = 2144;
+        int a;
+        String b;
 
-        System.out.println(myChar);
+        a = 1;
+        b = "hello java";
+
+        System.out.println(a);
+        System.out.println(b);
     }
 }
